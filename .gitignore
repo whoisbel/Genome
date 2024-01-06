@@ -1,0 +1,17 @@
+# .gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.vscode/
+.idea/
+dist/
+build/
+*.egg-info/
+*.pyc
+*.pyo
+*.pyd
+*.db
+.DS_Store
+Thumbs.db
